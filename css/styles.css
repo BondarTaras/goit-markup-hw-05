@@ -192,7 +192,7 @@ img {
 .hero-btn:focus {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-  background-color: #3e4ad6;
+  background-color: #404bbf;
 }
 .hero-btn:active {
   background-color: var(--color-btn-active);
@@ -324,13 +324,7 @@ img {
 }
 .team-soc-link:hover,
 .team-soc-link:focus {
-  background-color: var(--color-btn-active);
-}
-.team-soc-link:hover .team-soc-icon {
-  fill: var(--first-color-text-btn);
-}
-.team-soc-link:focus .team-soc-icon {
-  fill: var(--first-color-text-btn);
+  background-color: #404bbf;
 }
 .team-soc-icon {
   fill: #f4f4fd;
